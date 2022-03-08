@@ -1,0 +1,10 @@
+topnav:
+- title: Topnav
+  items:
+    - title: github
+      external_url: https://github.com/{user} #<-- should be a valid git username otherwise doc_host will crash/src/tree/{branch}/
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
